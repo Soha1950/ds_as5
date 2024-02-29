@@ -13,7 +13,7 @@ It's important to note that certain columns (Car, Bar, Cafe, Carry Away, Restaur
 
 One significant finding from the conditional probability analysis is that drivers who accept the "Coffee House" coupon demonstrate the highest probabilities compared to those accepting "Restaurant (<20)" and "Run and pick up" coupons. This insight is effectively depicted through barplots, providing a clear visualization of the observed conditional probabilities.
 
-![Image of chart 1](chart1.png)
+![Image of chart 1](coupon1.png)
 
 ### Subsequently, I scrutinized other columns, and the analysis yielded the following insights
 The visualization reveals a pronounced trend, indicating that individuals who accept coupons and visit bars between 1 and 3 times a month are more inclined to do so compared to those who frequent bars more than 3 times. This insight suggests a correlation between coupon acceptance and a moderate frequency of bar visits.
