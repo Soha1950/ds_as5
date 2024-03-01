@@ -32,4 +32,4 @@ I filtered the data for Bar coupons and coupon acceptance (Y=1) and explored the
 #### I utilized the Seaborn library to generate a countplot.
 After filtering the data for bar coupons and coupon acceptance (Y=1), I explored the interaction with two additional columns. The visualization, specifically focusing on solo travelers, revealed a clear trend: individuals who are alone exhibit a higher inclination to visit the bar, followed by passengers accompanied by friends. On the other hand, those with children display a relatively lower inclination towards bar visits.
 
-![Image of chart 4](https://github.com/Soha1950/ds_as5/blob/main/screenshot/Screenshot%202024-02-29%20173851.png)
+![Image of chart 4](https://github.com/Soha1950/ds_as5/blob/main/screenshot/image4.png)
