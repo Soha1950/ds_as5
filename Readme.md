@@ -20,11 +20,16 @@ The visualization reveals a pronounced trend, indicating that individuals who ac
 
 The heightened likelihood of accepting coupons within the demographic that engages with bar moderately could be indicative of a balanced engagement with the social setting, making this group more receptive to promotional incentives.
 
-![Image of chart 1](https://github.com/Soha1950/ds_as5/blob/main/screenshot/image2.png)
+![Image of chart 2](https://github.com/Soha1950/ds_as5/blob/main/screenshot/image2.png)
 
 ### Addressing the question about the distribution of coupon recipients across different age groups and their corresponding bar visit frequencies.
 #### I employed the Seaborn library to create a Violin chart.
 I filtered the data for Bar coupons and coupon acceptance (Y=1) and explored the interaction with two additional columns. The visualization, focusing on the age range of 20 to 30, revealed a distinctive pattern: individuals within this age bracket tend to visit the bar more frequently, particularly in the range of 4 to 8 times. Notably, the chart's significant width in this age group serves as a visual indicator, suggesting a substantial correlation and interconnectedness between the provided data points.
 
-![Image of chart 1](https://github.com/Soha1950/ds_as5/blob/main/screenshot/image2.png)
+![Image of chart 3](https://github.com/Soha1950/ds_as5/blob/main/screenshot/image3.png)
+
+### In addressing the inquiry regarding the distribution of coupon recipients within various passenger groups—such as those driveing alone, with friends, or with partners—and their corresponding bar visit frequencies
+#### I utilized the Seaborn library to generate a countplot.
+After filtering the data for bar coupons and coupon acceptance (Y=1), I explored the interaction with two additional columns. The visualization, specifically focusing on solo travelers, revealed a clear trend: individuals who are alone exhibit a higher inclination to visit the bar, followed by passengers accompanied by friends. On the other hand, those with children display a relatively lower inclination towards bar visits.
+
 
